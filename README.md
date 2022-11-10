@@ -1,3 +1,5 @@
+**Novembre 2022: Ce repository est archivé. La version maintenue est disponible dans [clessn/memoire_ulaval](https://github.com/clessn/memoire_ulaval)**
+
 # Gabarit Rmd pour le mémoire à l'Université Laval
 
 Voici un gabarit .Rmd pour mémoire de maîtrise conforme aux normes de l'Université Laval.

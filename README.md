@@ -1,4 +1,4 @@
-**Novembre 2022: Ce repository est archivé. La version maintenue est disponible dans [clessn/memoire_ulaval](https://github.com/clessn/memoire_ulaval)**
+**Novembre 2022: Ce repository est archivé. La version maintenue est disponible dans [clessn/memoire-ulaval](https://github.com/clessn/memoire_ulaval)**
 
 # Gabarit Rmd pour le mémoire à l'Université Laval
 
